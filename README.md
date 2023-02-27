@@ -3,3 +3,4 @@
 - Marius Gabriel Moraru
 - Remus Iulian Moraru
 - Radu Constantin Simuleac
+- Kevin Brandkamp
